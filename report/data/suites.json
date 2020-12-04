@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Test_baidu",
+    "children" : [ {
+      "name" : "baidu_test",
+      "children" : [ {
+        "name" : "test_setup",
+        "uid" : "8a0dc2772ddb21eb",
+        "parentUid" : "69d5e959f58a93ddba7054d7f3556761",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607072779110,
+          "stop" : 1607072779110,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_setup_class",
+        "uid" : "c9b1b5985ef6d313",
+        "parentUid" : "69d5e959f58a93ddba7054d7f3556761",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607072779112,
+          "stop" : 1607072779359,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_wudi",
+        "uid" : "e1752f113c3ee230",
+        "parentUid" : "69d5e959f58a93ddba7054d7f3556761",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607072779364,
+          "stop" : 1607072779521,
+          "duration" : 157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "69d5e959f58a93ddba7054d7f3556761"
+    } ],
+    "uid" : "20f8c928f8c3cd5f290c44d5c7ea8edf"
+  } ],
+  "name" : "suites"
+}
